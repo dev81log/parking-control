@@ -1,3 +1,4 @@
+<img width="257" alt="Captura de tela 2024-01-06 173508" src="https://github.com/dev81log/parking-control/assets/105469529/6d3183ea-1ad6-4769-8f6c-d00104efde03">
 
 # Parking Control
 
